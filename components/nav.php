@@ -38,12 +38,16 @@
                     <div class="searched">
                         <ul class="sociaz-media">
                             <li>
-                                <a title="" href="/users" class="twitter"> go to user</a>
-                                <a title="" href="/users/create" class="linkedin"> go to create</a>
-                                <a title="" href="/posts" class="twitter"> go to post</a>
-                                <a title="" href="/posts/create" class="linkedin"> go to create post</a>
-                                <a title="" href="/comments" class="twitter"> go to comment</a>
-                                <a title="" href="/comments/create" class="linkedin"> go to create comment</a>
+                                <a title="" href="/users" class="twitter"> user</a>
+                                <a title="" href="/users/create" class="linkedin"> create user</a>
+                                <a title="" href="/posts" class="twitter"> post</a>
+                                <a title="" href="/posts/create" class="linkedin"> create post</a>
+                                <a title="" href="/comments" class="twitter"> comment</a>
+                                <a title="" href="/comments/create" class="linkedin"> create comment</a>
+                                <a title="" href="/friends" class="twitter"> friends</a>
+                                <a title="" href="/friends/create" class="linkedin"> create friends</a>
+                                <a title="" href="/chats" class="twitter"> chat</a>
+                                <a title="" href="/chats/create" class="linkedin"> create chat</a>
                                 <!-- <a title="" href="/users/edit" class="facebook"> go to edit</a> -->
                             </li>
 

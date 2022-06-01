@@ -32,10 +32,9 @@ $comments = comment::all();
             <tr>
                 <th scope="col">#</th>
                 <th scope="col">id</th>
-                <th scope="col">title</th>
                 <th scope="col">text</th>
-                <th scope="col">image</th>
                 <th scope="col">user_id</th>
+                <th scope="col">post_id</th>
             </tr>
         </thead>
         <tbody>

@@ -20,6 +20,7 @@ if (isset($_POST['text'])) {
     $id = $result->getByKey('id');
 
 
+
     $comment = new comment($id);
 
     $x = $comment->find();
